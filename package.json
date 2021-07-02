@@ -1,0 +1,24 @@
+{
+  "name": "nodemod",
+  "version": "1.0.0",
+  "description": "i am learning nodejs",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amisha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "experss": "0.0.1-security",
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.6",
+    "mysql": "^2.18.1",
+    "objection": "^2.2.15",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {}
+}
